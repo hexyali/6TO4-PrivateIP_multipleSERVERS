@@ -1,17 +1,17 @@
-![R (2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
+![R (2)](https://github.com/hexyali/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
 نام پروژه : تانل 6to4 - پرایوت ایپی (امکان تانل بین 5 سرور خارج و 1 ایران و برعکس)
 ---------------------------------------------------------------
-![lang](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/627ecb66-0445-4c15-b2a0-59e02c7f7e09)
+![lang](https://github.com/hexyali/PrivateIP-Tunnel/assets/119934376/627ecb66-0445-4c15-b2a0-59e02c7f7e09)
 **زبان - Languages**
 
 - [زبان English]
 ------------------------
-![R (a2)](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/57a4c3f1-f637-4d4d-bec2-1de36206d136)**دسترسی سریع به اسکریپت**
+![R (a2)](https://github.com/hexyali/6TO4-PrivateIP/assets/119934376/57a4c3f1-f637-4d4d-bec2-1de36206d136)**دسترسی سریع به اسکریپت**
 
 
-- [کلیک - click](https://github.com/Azumi67/6TO4-PrivateIP_multipleSERVERS/tree/main#%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%85%D9%86)
+- [کلیک - click](https://github.com/hexyali/6TO4-PrivateIP_multipleSERVERS/tree/main#%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%85%D9%86)
 ------------------------
-![Update-Note--Arvin61r58](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/abc423fc-f055-42e2-a60f-7b91e468fd04)  **امکان تانل بین 5 سرور خارج و 1 سرور ایران و برعکس**
+![Update-Note--Arvin61r58](https://github.com/hexyali/6TO4-PrivateIP/assets/119934376/abc423fc-f055-42e2-a60f-7b91e468fd04)  **امکان تانل بین 5 سرور خارج و 1 سرور ایران و برعکس**
 - مانند قبل سرور های خارج خودتان را اول کانفیگ کنید و بعد سرور ایران
 - امکان تانل بین 5 سرور خارج و یک سرور ایران و برعکس
 - از این پرایوت ایپی ها برای لود بالانس که به زودی قرار میدم هم میتوان استفاده کرد
@@ -263,7 +263,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/o
 
 
 ```
-apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/Azumi67/6TO4-PrivateIP_multipleSERVERS/main/6to4.sh --ipv4)
+apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/hexyali/6TO4-PrivateIP_multipleSERVERS/main/6to4.sh --ipv4)
 ```
 
 
